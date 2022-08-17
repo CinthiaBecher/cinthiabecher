@@ -22,4 +22,4 @@
  </div> 
   
   
-![Snake animation](https://github.com/CinthiaBecher)
+  ![Snake animation](https://github.com/cinthiabecher/cinthiabecher/blob/output/github-contribution-grid-snake.svg)
