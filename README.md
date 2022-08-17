@@ -1,8 +1,8 @@
 ### Hi there, I'm Cinthia! 👋
 
-- 🔭 I’m currently working at Dell Technologies as a Product Design Intern
-- 🌱 I’m currently studying Computer Science at Unisinos
-- 🌱 I’m currently learning JavaScript
+- 💻 I’m currently working at Dell Technologies as a Product Design Intern
+- 📚 I’m a Computer Science student at Unisinos
+- 🔎 I’m currently learning JavaScript
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cinthia-Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
