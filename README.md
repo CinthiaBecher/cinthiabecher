@@ -1,6 +1,6 @@
 ### Hi there, I'm Cinthia! 👋
 
-- 💻 I’m currently working at Dell Technologies as a Product Design Intern
+- 💻 I’m currently working at Dell Technologies as a Software Engineer Intern
 - 📚 I’m a Computer Science student at Unisinos
 - 🔎 I’m currently learning JavaScript
 
